@@ -4,7 +4,7 @@ Open Terminal and run "cd backend".
 
 Run "npm i" to install dependencies.
 
-Run "npm run dev" to start Express backend server on desired port.
+Run "npm run dev" to start Express backend server.
 
 Open new Terminal and run "cd frontend".
 
